@@ -1,5 +1,5 @@
 #Loading Dataset
-read.csv("Pokemon.csv",sep = ",") -> pokemon
+read.csv("Path of your file i.e. csv file",sep = ",") -> pokemon
 View(pokemon)
 
 #Use Package to Remove Column
